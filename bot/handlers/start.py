@@ -6,11 +6,13 @@ from aiogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 from aiogram.fsm.context import FSMContext
 
 from utils.logger import setup_logger
+import logging
+
 
 BASE_DIR = Path(__file__).resolve().parents[2]
 INTRO_MD = (BASE_DIR / "templates" / "intro.md").read_text(encoding="utf-8")
 
-logger = setup_logger("handlers.start")
+logger = logging.getLogger(__name__)
 router = Router()
 
 @router.message(F.text == "/start")

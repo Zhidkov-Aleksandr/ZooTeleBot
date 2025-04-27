@@ -1,0 +1,398 @@
+[27.04.2025 18:32:20] [    INFO] aiogram.dispatcher: Start polling
+[27.04.2025 18:32:21] [    INFO] aiogram.dispatcher: Run polling for bot @MiphiZooBot id=7676053709 - 'ZooBot'
+[27.04.2025 18:32:24] [   ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+[27.04.2025 18:32:24] [ WARNING] aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7676053709)
+[27.04.2025 18:32:28] [   ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+[27.04.2025 18:32:28] [ WARNING] aiogram.dispatcher: Sleep for 1.240537 seconds and try again... (tryings = 1, bot id = 7676053709)
+[27.04.2025 18:32:32] [   ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+[27.04.2025 18:32:32] [ WARNING] aiogram.dispatcher: Sleep for 1.633891 seconds and try again... (tryings = 2, bot id = 7676053709)
+[27.04.2025 18:32:34] [   ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+[27.04.2025 18:32:34] [ WARNING] aiogram.dispatcher: Sleep for 2.024574 seconds and try again... (tryings = 3, bot id = 7676053709)
+[27.04.2025 18:32:39] [   ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+[27.04.2025 18:32:39] [ WARNING] aiogram.dispatcher: Sleep for 2.725499 seconds and try again... (tryings = 4, bot id = 7676053709)
+[27.04.2025 18:32:42] [   ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+[27.04.2025 18:32:42] [ WARNING] aiogram.dispatcher: Sleep for 3.668153 seconds and try again... (tryings = 5, bot id = 7676053709)
+[27.04.2025 18:32:46] [   ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+[27.04.2025 18:32:46] [ WARNING] aiogram.dispatcher: Sleep for 4.851825 seconds and try again... (tryings = 6, bot id = 7676053709)
+[27.04.2025 18:32:53] [   ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+[27.04.2025 18:32:53] [ WARNING] aiogram.dispatcher: Sleep for 4.995771 seconds and try again... (tryings = 7, bot id = 7676053709)
+[27.04.2025 18:32:59] [   ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+[27.04.2025 18:32:59] [ WARNING] aiogram.dispatcher: Sleep for 5.086483 seconds and try again... (tryings = 8, bot id = 7676053709)
+[27.04.2025 18:33:03] [    INFO] aiogram.dispatcher: Polling stopped
+[27.04.2025 18:33:03] [    INFO] aiogram.dispatcher: Polling stopped for bot @MiphiZooBot id=7676053709 - 'ZooBot'
+[27.04.2025 18:33:35] [    INFO] aiogram.dispatcher: Start polling
+[27.04.2025 18:33:35] [    INFO] aiogram.dispatcher: Run polling for bot @MiphiZooBot id=7676053709 - 'ZooBot'
+[27.04.2025 18:33:36] [    INFO] aiogram.dispatcher: Polling stopped
+[27.04.2025 18:33:36] [    INFO] aiogram.dispatcher: Polling stopped for bot @MiphiZooBot id=7676053709 - 'ZooBot'
+[27.04.2025 18:37:06] [    INFO] aiogram.dispatcher: Start polling
+[27.04.2025 18:37:06] [    INFO] aiogram.dispatcher: Run polling for bot @MiphiZooBot id=7676053709 - 'ZooBot'
+[27.04.2025 18:37:10] [   ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+[27.04.2025 18:37:10] [ WARNING] aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7676053709)
+[27.04.2025 18:37:16] [   ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+[27.04.2025 18:37:16] [ WARNING] aiogram.dispatcher: Sleep for 1.487732 seconds and try again... (tryings = 1, bot id = 7676053709)
+[27.04.2025 18:37:22] [   ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+[27.04.2025 18:37:22] [ WARNING] aiogram.dispatcher: Sleep for 1.953119 seconds and try again... (tryings = 2, bot id = 7676053709)
+[27.04.2025 18:37:29] [   ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+[27.04.2025 18:37:29] [ WARNING] aiogram.dispatcher: Sleep for 2.579444 seconds and try again... (tryings = 3, bot id = 7676053709)
+[27.04.2025 18:37:37] [   ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+[27.04.2025 18:37:37] [ WARNING] aiogram.dispatcher: Sleep for 3.186114 seconds and try again... (tryings = 4, bot id = 7676053709)
+[27.04.2025 18:37:44] [   ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+[27.04.2025 18:37:44] [ WARNING] aiogram.dispatcher: Sleep for 4.074731 seconds and try again... (tryings = 5, bot id = 7676053709)
+[27.04.2025 18:37:48] [    INFO] aiogram.dispatcher: Connection established (tryings = 6, bot id = 7676053709)
+[27.04.2025 18:37:49] [   ERROR] aiogram.event: Cause exception while process update id=620312904 by bot id=7676053709
+AttributeError: 'Message' object has no attribute 'update_type'
+Traceback (most recent call last):
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\bot\middlewares\log_update.py", line 18, in __call__
+    logger.debug("⬇️  %s", event.update_type)
+                           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\pydantic\main.py", line 994, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Message' object has no attribute 'update_type'
+[27.04.2025 18:37:52] [   ERROR] aiogram.event: Cause exception while process update id=620312905 by bot id=7676053709
+AttributeError: 'Message' object has no attribute 'update_type'
+Traceback (most recent call last):
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\bot\middlewares\log_update.py", line 18, in __call__
+    logger.debug("⬇️  %s", event.update_type)
+                           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\pydantic\main.py", line 994, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Message' object has no attribute 'update_type'
+[27.04.2025 18:37:53] [   ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+[27.04.2025 18:37:53] [ WARNING] aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7676053709)
+[27.04.2025 18:37:59] [    INFO] aiogram.dispatcher: Connection established (tryings = 1, bot id = 7676053709)
+[27.04.2025 18:37:59] [   ERROR] aiogram.event: Cause exception while process update id=620312906 by bot id=7676053709
+AttributeError: 'Message' object has no attribute 'update_type'
+Traceback (most recent call last):
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\bot\middlewares\log_update.py", line 18, in __call__
+    logger.debug("⬇️  %s", event.update_type)
+                           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\pydantic\main.py", line 994, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Message' object has no attribute 'update_type'
+[27.04.2025 18:38:02] [   ERROR] aiogram.event: Cause exception while process update id=620312907 by bot id=7676053709
+AttributeError: 'Message' object has no attribute 'update_type'
+Traceback (most recent call last):
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\bot\middlewares\log_update.py", line 18, in __call__
+    logger.debug("⬇️  %s", event.update_type)
+                           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRENDIZER\PycharmProjects\ZooTeleBot\.venv\Lib\site-packages\pydantic\main.py", line 994, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Message' object has no attribute 'update_type'
+[27.04.2025 18:38:02] [   ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+[27.04.2025 18:38:02] [ WARNING] aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7676053709)
+[27.04.2025 18:38:11] [   ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+[27.04.2025 18:38:11] [ WARNING] aiogram.dispatcher: Sleep for 1.442114 seconds and try again... (tryings = 1, bot id = 7676053709)
+[27.04.2025 18:38:21] [   ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+[27.04.2025 18:38:21] [ WARNING] aiogram.dispatcher: Sleep for 1.698317 seconds and try again... (tryings = 2, bot id = 7676053709)
+[27.04.2025 18:38:30] [   ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+[27.04.2025 18:38:30] [ WARNING] aiogram.dispatcher: Sleep for 2.142881 seconds and try again... (tryings = 3, bot id = 7676053709)
+[27.04.2025 18:38:41] [   ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+[27.04.2025 18:38:41] [ WARNING] aiogram.dispatcher: Sleep for 2.814264 seconds and try again... (tryings = 4, bot id = 7676053709)
+[27.04.2025 18:38:51] [   ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+[27.04.2025 18:38:51] [ WARNING] aiogram.dispatcher: Sleep for 3.750399 seconds and try again... (tryings = 5, bot id = 7676053709)
+[27.04.2025 18:39:00] [   ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+[27.04.2025 18:39:00] [ WARNING] aiogram.dispatcher: Sleep for 4.906573 seconds and try again... (tryings = 6, bot id = 7676053709)
+[27.04.2025 18:39:10] [   ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+[27.04.2025 18:39:10] [ WARNING] aiogram.dispatcher: Sleep for 4.725335 seconds and try again... (tryings = 7, bot id = 7676053709)
+[27.04.2025 18:39:17] [    INFO] aiogram.dispatcher: Polling stopped
+[27.04.2025 18:39:17] [    INFO] aiogram.dispatcher: Polling stopped for bot @MiphiZooBot id=7676053709 - 'ZooBot'
+[27.04.2025 18:39:22] [    INFO] aiogram.dispatcher: Start polling
+[27.04.2025 18:39:22] [    INFO] aiogram.dispatcher: Run polling for bot @MiphiZooBot id=7676053709 - 'ZooBot'
+[27.04.2025 18:39:30] [   ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+[27.04.2025 18:39:30] [ WARNING] aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7676053709)
+[27.04.2025 18:39:32] [    INFO] aiogram.dispatcher: Connection established (tryings = 1, bot id = 7676053709)
+[27.04.2025 18:39:39] [   ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+[27.04.2025 18:39:39] [ WARNING] aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7676053709)
+[27.04.2025 18:39:42] [    INFO] aiogram.dispatcher: Connection established (tryings = 1, bot id = 7676053709)
+[27.04.2025 18:39:44] [   ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+[27.04.2025 18:39:44] [ WARNING] aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7676053709)
+[27.04.2025 18:39:47] [    INFO] aiogram.dispatcher: Connection established (tryings = 1, bot id = 7676053709)
+[27.04.2025 18:39:50] [   ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+[27.04.2025 18:39:50] [ WARNING] aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7676053709)
+[27.04.2025 18:39:50] [    INFO] handlers.result: user 7676053709 finished quiz → fox
+[27.04.2025 18:39:55] [   ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+[27.04.2025 18:39:55] [ WARNING] aiogram.dispatcher: Sleep for 1.307520 seconds and try again... (tryings = 1, bot id = 7676053709)
+[27.04.2025 18:40:01] [   ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+[27.04.2025 18:40:01] [ WARNING] aiogram.dispatcher: Sleep for 1.573685 seconds and try again... (tryings = 2, bot id = 7676053709)
+[27.04.2025 18:40:08] [   ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+[27.04.2025 18:40:08] [ WARNING] aiogram.dispatcher: Sleep for 2.124580 seconds and try again... (tryings = 3, bot id = 7676053709)
+[27.04.2025 18:40:17] [   ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+[27.04.2025 18:40:17] [ WARNING] aiogram.dispatcher: Sleep for 2.941574 seconds and try again... (tryings = 4, bot id = 7676053709)
+[27.04.2025 18:40:22] [    INFO] aiogram.dispatcher: Polling stopped
+[27.04.2025 18:40:22] [    INFO] aiogram.dispatcher: Polling stopped for bot @MiphiZooBot id=7676053709 - 'ZooBot'

@@ -2,8 +2,10 @@
 from pathlib import Path
 import json
 import pytest
+import sys
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
+sys.path.append(str(PROJECT_ROOT))
 
 
 @pytest.fixture(scope="session")

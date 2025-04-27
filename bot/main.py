@@ -9,6 +9,7 @@ from aiohttp import web
 from bot import bot, dp
 from bot.router import setup_routers
 from utils.logger import setup_logger
+import logging
 
 setup_logger("totem_bot")
 logger = logging.getLogger("totem_bot")
