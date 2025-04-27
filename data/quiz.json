@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "Утро понедельника. Ты…",
+    "answers": [
+      {"text": "спокойно медитирую — поспешишь, людей насмешишь", "weights": ["hippo", "giraffe"]},
+      {"text": "вскакиваю и беру быка за рога!", "weights": ["tiger", "falcon"]},
+      {"text": "пытаюсь найти команду единомышленников", "weights": ["wolf", "gorilla"]}
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Что для тебя идеальный отдых?",
+    "answers": [
+      {"text": "шумная вечеринка до утра", "weights": ["rabbit", "fox"]},
+      {"text": "семейный ужин", "weights": ["bear", "gorilla"]},
+      {"text": "уединённая прогулка в лесу", "weights": ["tiger", "wolf"]}
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Твой супер-скилл?",
+    "answers": [
+      {"text": "молниеносная реакция", "weights": ["falcon", "tiger"]},
+      {"text": "непробиваемое спокойствие", "weights": ["hippo", "giraffe"]},
+      {"text": "харизма и чувство юмора", "weights": ["fox", "rabbit"]}
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Как относишься к неожиданностям?",
+    "answers": [
+      {"text": "принимаю вызов!", "weights": ["tiger", "falcon"]},
+      {"text": "ищу, как извлечь выгоду", "weights": ["fox", "bear"]},
+      {"text": "сперва анализирую, потом действую", "weights": ["gorilla", "wolf"]}
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Главная ценность?",
+    "answers": [
+      {"text": "свобода", "weights": ["tiger", "falcon"]},
+      {"text": "семья", "weights": ["bear", "gorilla"]},
+      {"text": "новые впечатления", "weights": ["rabbit", "fox"]}
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Какое место в зоопарке тебе ближе по духу?",
+    "answers": [
+      {"text": "спокойный пруд", "weights": ["hippo", "giraffe"]},
+      {"text": "скалистый вольер", "weights": ["tiger", "wolf"]},
+      {"text": "активный павильон обезьян", "weights": ["gorilla", "rabbit"]}
+    ]
+  },
+  {
+    "id": 7,
+    "question": "В споре друзей ты…",
+    "answers": [
+      {"text": "арбитр — главное fairness", "weights": ["giraffe", "gorilla"]},
+      {"text": "подливaю масла, чтобы было веселее", "weights": ["fox", "rabbit"]},
+      {"text": "переводишь всё в игру, чтобы никто не дрался", "weights": ["bear", "wolf"]}
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Лучший транспорт?",
+    "answers": [
+      {"text": "бегу сам, мне крылья не нужны", "weights": ["tiger", "wolf"]},
+      {"text": "воздушный шар — смотреть сверху!", "weights": ["falcon", "giraffe"]},
+      {"text": "кабриолет с друзьями", "weights": ["rabbit", "fox"]}
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Что делаешь, когда видишь снежную горку?",
+    "answers": [
+      {"text": "катаюсь, пока не растает!", "weights": ["bear", "rabbit"]},
+      {"text": "делаю идеальное селфи", "weights": ["fox", "falcon"]},
+      {"text": "приглашаю всех — вместе веселее", "weights": ["gorilla", "wolf"]}
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Как переживаешь стресс?",
+    "answers": [
+      {"text": "активно действую — двигаться легче", "weights": ["tiger", "falcon"]},
+      {"text": "ем вкусняшку и сплю", "weights": ["bear", "hippo"]},
+      {"text": "болтаю с друзьями, пока не отпустит", "weights": ["rabbit", "gorilla"]}
+    ]
+  }
+]

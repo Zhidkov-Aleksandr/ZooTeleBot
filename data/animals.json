@@ -1,0 +1,56 @@
+{
+  "tiger": {
+    "name": "ТИГР",
+    "description": "Ты смелый, харизматичный одиночка. Когда появляешься — весь мир замирает.",
+    "image": "media/images/tiger.jpg",
+    "guardian_link": "https://moscowzoo.ru/animals/kinds/amurskiy_tigr"
+  },
+  "bear": {
+    "name": "МЕДВЕДЬ",
+    "description": "Любишь уют, мёд и поспать подольше. Но в случае чего — твоя сила безгранична.",
+    "image": "media/images/bear.jpg",
+    "guardian_link": "https://moscowzoo.ru/news/buryy_medved_grom_vpal_v_zimnyuyu_spyachku"
+  },
+  "wolf": {
+    "name": "ВОЛК",
+    "description": "Командный игрок и верный друг. Твоя стая может на тебя положиться.",
+    "image": "media/images/wolf.jpg",
+    "guardian_link": "https://moscowzoo.ru/animals/kinds/evropeyskiy_volk"
+  },
+  "rabbit": {
+    "name": "БИНТУРОНГ",
+    "description": "Энергичный оптимист. Ты находишь приключения, а не наоборот.",
+    "image": "media/images/bentur.jpg",
+    "guardian_link": "https://moscowzoo.ru/animals/kinds/binturong"
+  },
+  "fox": {
+    "name": "ЛИСА",
+    "description": "Хитрость, грация и чуть-чуть таинственности — твой фирменный стиль.",
+    "image": "media/images/fox.jpg",
+    "guardian_link": "https://moscowzoo.ru/animals/kinds/obyknovennaya_lisica"
+  },
+  "falcon": {
+    "name": "СОКОЛ",
+    "description": "Высоко летаешь и видишь цели раньше других. Твоё время реакции потрясает.",
+    "image": "media/images/falcon.jpg",
+    "guardian_link": "https://moscowzoo.ru/animals/kinds/stepnoy_orel"
+  },
+  "giraffe": {
+    "name": "ЖИРАФ",
+    "description": "Спокойный философ, который смотрит на мир с другой высоты.",
+    "image": "media/images/giraffe.jpg",
+    "guardian_link": "https://moscowzoo.ru/animals/kinds/yuzhnoafrikanskiy_zhiraf"
+  },
+  "hippo": {
+    "name": "БЕГЕМОТ",
+    "description": "С виду расслаблен, но способен на внезапный рывок. Обожаешь водные процедуры.",
+    "image": "media/images/hippo.jpg",
+    "guardian_link": "https://moscowzoo.ru/animals/kinds/karlikovyy_begemot"
+  },
+  "gorilla": {
+    "name": "ГОРИЛЛА",
+    "description": "Надёжный лидер и заботливый родитель. За тобой чувствуешьcя, как за каменной стеной.",
+    "image": "media/images/gorilla.jpg",
+    "guardian_link": "https://moscowzoo.ru/animals/kinds/ravninnaya_gorilla"
+  }
+}
